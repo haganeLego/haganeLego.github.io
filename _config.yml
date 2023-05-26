@@ -9,7 +9,7 @@ last_name: Kanaoka
 email: kanaoka.daiju327@mail.kyutech.jp
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I received the B.Eng and the M.Eng degree from Kyushu Institute of Technology, Japan, in 2020 and 2022. 
-  I'm currently in a Ph.D. student in the graduate school of Life Science and Systems Engineering, Kyushu Institute of Technology. 
+  I am currently in a Ph.D. student in the graduate school of Life Science and Systems Engineering, Kyushu Institute of Technology. 
   My research interest includes object recognition, multimodal learning and domestic service robots.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -122,8 +122,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog (disabled)
 # -----------------------------------------------------------------------------
 
-# blog_name: remove # blog_name will be displayed in your blog page
-# blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_name: under construction # blog_name will be displayed in your blog page
+blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
 # blog_description: a simple whitespace theme for academics
 # permalink: /blog/:year/:title/
 
