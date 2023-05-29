@@ -259,8 +259,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Daiju]
-  first_name: [Kanaoka]
+  last_name: [Kanaoka]
+  first_name: [Daiju]
 
   style: apa
   locale: en
